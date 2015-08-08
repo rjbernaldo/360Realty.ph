@@ -1,4 +1,4 @@
-# AngelHack Manila 2015 Project: 360Realty.ph
+## AngelHack Manila 2015 Project: 360Realty.ph
 
 ## Pitch
 Real estate listings website that features 360 degree images (Photospheres) displayed in VR using google cardboard.
