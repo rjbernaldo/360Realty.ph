@@ -1,4 +1,4 @@
-## AngelHack Manila 2015 Project: 360Realty.ph
+# AngelHack Manila 2015: 360Realty.ph
 
 ## Problem
 - So recently I was looking for a place to stay because I wanted to move out
