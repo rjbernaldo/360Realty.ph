@@ -9,15 +9,15 @@
 ## Solution
 - Real estate listings website that features 360 degree images (photospheres) displayed in VR.
 
-### Buyers
+#### Buyers
 - Save time & money by improving the filtering step of real estate search process
 - See how the place looks on your own time, like you were actually there!
 
-### Sellers / Brokers
+#### Sellers / Brokers
 - Utilize the emergence of VR to provide self-serve property tours.
 - Only get contacted by buyers who are really interested in the property.
 
-### Possible Difficulties
+#### Possible Difficulties
 1) Not everyone has google cardboard
 - FEATURE: Provide ability to view photospheres w/o VR (ala Youtube)
 - NOTE: Cardboard can be bought for less than 1k, a relatively cheap investment compared to wasting your time visiting several places
