@@ -3,3 +3,7 @@ photosphere/images
 *.jpeg
 *.jpg
 *.png
+
+node_modules/
+platforms/
+plugins
