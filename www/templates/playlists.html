@@ -1,8 +1,10 @@
-<ion-view view-title="Playlists">
+<ion-view view-title="360Reality.ph">
   <ion-content>
     <ion-list>
-      <ion-item ng-repeat="playlist in playlists" href="#/app/playlists/{{playlist.id}}">
-        {{playlist.title}}
+      <ion-item class="item-avatar" ng-repeat="property in properties" href="#/app/playlists/{{property.id}}">
+          <img src={{property.photospheres[0].imageUrl}}>
+          <h2>{{property.name}}</h2>
+          <p>{{property.description}}</p>
       </ion-item>
     </ion-list>
   </ion-content>
